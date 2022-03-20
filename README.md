@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Okwy
+- 👀 I’m interested in Machine Learning & Artificial Intelligence
+- 🌱 I’m currently learning and sharpening my Data Science skillset
+- 💞️ I’m looking to collaborate on projects related to the above mentioned fields
